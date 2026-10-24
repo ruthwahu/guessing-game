@@ -1,0 +1,6 @@
+s=input("Do you agree?").lower()
+if s in ("yes","y"):
+    print("agreed")
+else:
+    print("not agreed")
+    
